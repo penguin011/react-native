@@ -25,10 +25,7 @@ iShiWuPai是基于React Native实现的展示型美食类APP。该分支针对�
 ## 运行
 
 ```
-$ git clone https://github.com/ljunb/react-native-iShiWuPai.git
-$ cd react-native-iShiWuPai 
-$ npm install
-$ react-native run-ios/run-android
+
 ```
 
 ## 相关第三方库
